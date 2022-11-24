@@ -11,6 +11,6 @@ public class CD extends StoreItem{
     @Override
     public String getDescription()
     {
-        return id + "(DVD) "+title+", "+year+", "+price+" CHF";
+        return id + "(DVD) "+title+", "+year+", "+price+" CHF ";
     }
 }
